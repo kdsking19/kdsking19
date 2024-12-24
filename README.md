@@ -29,10 +29,10 @@
   </a> -->
 </div>
 
-<!-- <div align="center">
+<div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   ![Snake animation](https://github.com/kdsking19/kdsking19/blob/output/github-contribution-grid-snake.svg)
-</div> -->
+</div>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
