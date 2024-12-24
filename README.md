@@ -27,12 +27,13 @@
   <!-- <a href="https://hitarthsh.github.io/Courses-kero.com/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> sqlite, safari, google-chrome are other good icon options
   </a> -->
-</div>
-
-<!-- <div align="center">
+<div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <img src="https://github.com/kdsking19/kdsking19/blob/dist/github-contribution-grid-snake.gif" alt="snake gif">
-</div> -->
+  <br>
+  <img alt="snake eating my contributions" src="https://github.com/kdsking19/kdsking19/blob/main/dist/github-contribution-grid-snake-dark.svg" />
+  
+  <br/><br/><br/>
+</div>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
