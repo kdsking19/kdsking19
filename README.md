@@ -29,13 +29,10 @@
   </a> -->
 </div>
 
-<!---
-<div align="center">
+<!-- <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://github.com/hitarthsh/hitarthsh/blob/main/dist/github-contribution-grid-snake-dark.svg" />
-  <br/><br/><br/>
-</div> --->
+  ![Snake animation](https://github.com/kdsking19/kdsking19/blob/output/github-contribution-grid-snake.svg)
+</div> -->
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
