@@ -57,3 +57,16 @@
 <img width=385 src="https://github-readme-stats.vercel.app/api?username=kdsking19&theme=react&show_icons=true&hide_border=false&count_private=true" alt="readme stats" /><br>
 <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdsking19&theme=react&show_icons=true&hide_border=false&layout=compact" alt="top langs" />
 </div>
+
+<br/><br/>
+
+<hr/>
+
+<br/>
+
+<div align="center">
+<a href='https://github.com/sponsors/kdsking19' target='_blank'><img height='54' style='border:1px;color:green;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
+</div>
+
+<br/>
