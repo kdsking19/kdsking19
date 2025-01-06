@@ -45,11 +45,10 @@
   <br>
   <img alt="snake eating my contributions" src="https://github.com/kdsking19/kdsking19/blob/main/dist/github-contribution-grid-snake-dark.svg" />
   
-  <br/><br/><br/>
+  <br/>
 </div>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<!-- <br> -->
+<hr/>
+<br/>
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=kdsking19&theme=react&hide_border=false" alt="GitHub Streak Stats" width="390"> -->
 <!-- <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kdsking19&theme=react&hide_border=false" alt="GitHub Streak Stats" />
@@ -67,7 +66,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdsking19&layout=compact&theme=react&hide_border=true" alt="Most Used Languages" width="400" />
 </div>
 
-<br/>
+<br/><br/>
 
 <hr/>
 
