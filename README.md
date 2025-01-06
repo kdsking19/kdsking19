@@ -50,11 +50,13 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align=center>
-<img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=kdsking19&theme=react&hide_border=false" alt="readme stats"/>
-<img width=385 src="https://github-readme-stats.vercel.app/api?username=kdsking19&theme=react&show_icons=true&hide_border=false&count_private=true" alt="readme stats" /><br>
-<img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdsking19&theme=react&show_icons=true&hide_border=false&layout=compact" alt="top langs" />
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=kdsking19&theme=react&hide_border=false" alt="GitHub Streak Stats" width="390"> -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kdsking19&theme=react&hide_border=false" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kdsking19&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdsking19&layout=compact&theme=react&hide_border=true" alt="Most Used Languages" />
 </div>
+
 
 <br/><br/>
 
