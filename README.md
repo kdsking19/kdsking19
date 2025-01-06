@@ -1,3 +1,4 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kdsking19.kdsking19" />
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi+There!+👋;How+are+you+doing?;+I'm+Kishan+Sonagara!;" />
 </h1>
@@ -50,7 +51,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-<!-- <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=hitarthsh&theme=react&hide_border=false" alt="readme ststs"/> -->
+<img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=kdsking19&theme=react&hide_border=false" alt="readme stats"/>
 <img width=385 src="https://github-readme-stats.vercel.app/api?username=kdsking19&theme=react&show_icons=true&hide_border=false&count_private=true" alt="readme stats" /><br>
 <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdsking19&theme=react&show_icons=true&hide_border=false&layout=compact" alt="top langs" />
 </div>
