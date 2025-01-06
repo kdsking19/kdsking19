@@ -61,9 +61,9 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kdsking19&theme=react&hide_border=false" alt="GitHub Streak Stats" width="400" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=kdsking19&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kdsking19&show_icons=true&theme=react&hide_border=false" alt="GitHub Stats" width="400" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdsking19&layout=compact&theme=react&hide_border=true" alt="Most Used Languages" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdsking19&layout=compact&theme=react&hide_border=false" alt="Most Used Languages" width="400" />
 </div>
 
 <br/><br/>
