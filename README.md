@@ -59,11 +59,11 @@
 ## ⚡ GitHub Stats
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-ten-red.vercel.app?user=kdsking19&theme=transparent" width=400 alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-ten-red.vercel.app?user=kdsking19&theme=prussian" width=400 alt="GitHub Streak" /></a>
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=kdsking19&show_icons=true&theme=transparent&hide_border=false" alt="GitHub Stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kdsking19&show_icons=true&theme=cobalt&hide_border=false" alt="GitHub Stats" width="400" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdsking19&layout=compact&theme=transparent&hide_border=false" alt="Most Used Languages" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdsking19&layout=compact&theme=cobalt&hide_border=false" alt="Most Used Languages" width="400" />
 </div>
 
 <br/><br/>
