@@ -8,13 +8,11 @@
 
 <div align="center">
  
- 🌱 I’m currently learning **Full Stack**
+ 🌱 I’m currently learning **Flutter Development**
 
 <!-- 🔭 I’m currently working on **a marketplace** -->
 
 <!-- 💬 Ask me about **React, Firebase, Node.js... or anything [here](https://github.com/hitarthsh/hitarthsh)** -->
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
  </div>
 
