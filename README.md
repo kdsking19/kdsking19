@@ -57,7 +57,7 @@
 ## ⚡ GitHub Stats
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="[![GitHub Streak](https://streak-stats.demolab.com/?user=kdsking19)](https://git.io/streak-stats)" width=400 alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="[![GitHub Streak](https://streak-stats.demolab.com?user=kdsking19&theme=prussian)](https://git.io/streak-stats)" width=400 alt="GitHub Streak" /></a>
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=kdsking19&show_icons=true&theme=cobalt&hide_border=false" alt="GitHub Stats" width="400" />
   <br><br>
