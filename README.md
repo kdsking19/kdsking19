@@ -57,10 +57,9 @@
 ## ⚡ GitHub Stats
 
 <div align="center">
-  <!--- <a href="https://git.io/streak-stats"><img src="[![GitHub Streak](https://streak-stats.demolab.com?user=kdsking19&theme=prussian)](https://git.io/streak-stats)" width=400 alt="GitHub Streak" /></a>
-  <br><br> -->
   <!-- <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a> --->
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kdsking19&theme=prussian" alt="GitHub Streak" /></a>
+  <!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kdsking19&theme=prussian" alt="GitHub Streak" /></a><br>  -->
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api?user=kdsking19&theme=prussian" alt="GitHub Streak" /></a><br> 
   <img src="https://github-readme-stats.vercel.app/api?username=kdsking19&show_icons=true&theme=cobalt&hide_border=false" alt="GitHub Stats" width="400" />
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdsking19&layout=compact&theme=cobalt&hide_border=false" alt="Most Used Languages" width="400" />
