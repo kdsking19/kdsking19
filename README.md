@@ -47,18 +47,18 @@
 </div>
 <hr/>
 <br/>
-<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=kdsking19&theme=react&hide_border=false" alt="GitHub Streak Stats" width="390"> -->
+
+## ⚡ GitHub Stats
+
 <!-- <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kdsking19&theme=react&hide_border=false" alt="GitHub Streak Stats" />
   <img src="https://github-readme-stats.vercel.app/api?username=kdsking19&show_icons=true&theme=react&hide_border=false" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdsking19&layout=compact&theme=react&hide_border=false" alt="Most Used Languages" />
 </div> -->
 
-## ⚡ GitHub Stats
-
 <div align="center">
   <!-- <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a> --->
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kdsking19&theme=prussian" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kdsking19&theme=prussian" alt="GitHub Streak" width="400"/></a>
   <br><br> 
   <img src="https://github-readme-stats.vercel.app/api?username=kdsking19&show_icons=true&theme=cobalt&hide_border=false" alt="GitHub Stats" width="400" />
   <br><br>
